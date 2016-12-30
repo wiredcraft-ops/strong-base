@@ -1,7 +1,8 @@
 # strong-base
-> base images for wcl node applications.
->
-> used by [dockerfiles](https://github.com/wiredcraft-ops/dockerfiles).
+> base images for wcl node applications, used by [dockerfiles](https://github.com/wiredcraft-ops/dockerfiles).
+
+![docker-pull](https://img.shields.io/docker/pulls/boratbot/strong-base.svg?style=flat-square) ![docker-automated](https://img.shields.io/docker/automated/boratbot/strong-base.svg?style=flat-square)
+
 
 ### Docker hub
 
