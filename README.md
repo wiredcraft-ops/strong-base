@@ -1,12 +1,13 @@
 # strong-base
-> base images for node applications. 
-> used by [dockerfiles](https://github.com/wiredcraft-ops/dockerfiles)
+> base images for wcl node applications.
+>
+> used by [dockerfiles](https://github.com/wiredcraft-ops/dockerfiles).
 
-### docker hub
+### Docker hub
 
 [boratbot/strong-base](https://hub.docker.com/r/boratbot/strong-base/)
 
-### tags
+### Tags
 
 - 4.6
 - 6.9
